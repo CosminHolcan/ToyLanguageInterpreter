@@ -1,2 +1,2 @@
 This interpreter provides some types as String, Integer and Reference, their corresponding values and it can be used to do some mathematical operations, allocate memory or write to it, or also work with files.
-It has also its own garbage collector for heap memory.
+It has its own garbage collector for heap memory.
